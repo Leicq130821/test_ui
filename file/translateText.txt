@@ -1,0 +1,25 @@
+默认  加粗  倾斜   下划线   删除线  橙色   灰色背景   微软雅黑   宋体 黑体 隶书  楷体 andalemono
+arial  arialblack  comicsansms  CenturyGothic  impact   Arial   Verdana  Georgia  TimesNewRoman 
+TrebuchetMS CourierNew Calibri  Tahoma  palatinoLinotype
+16号大小文字   全样式文字     链接地址  [$short_name][$name]
+
+
+编号列表
+项目列表
+
+
+左对齐
+	
+居中对齐
+	
+右对齐
+	全样式文字 
+链接地址
+[$short_name][$name]
+
+
+ 左对齐
+ 居中对齐
+ 右对齐
+
+
